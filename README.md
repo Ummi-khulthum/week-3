@@ -1,4 +1,5 @@
-Formulas and Techniques in Excel
+FORMULAS AND TECHNIQUES IN EXCEL.
+
 I learnt how to use some advanced formulars and functions in excel.
 The IF function in Excel which works like a simple decision-making tool. It checks a condition and gives one result if it's TRUE and another if it's FALSE.
 The AND function is like a strict teacher—it only says TRUE if all conditions are met. Otherwise, it returns FALSE.
