@@ -5,6 +5,7 @@ The IF function in Excel which works like a simple decision-making tool. It chec
 The AND function is like a strict teacher—it only says TRUE if all conditions are met. Otherwise, it returns FALSE.
 The OR function is more relaxed than AND. It returns TRUE if at least one condition is met. It only returns FALSE if none of the conditions are met.
 You can mix the IF,AND,OR functions for advanced logic.
+
 VLOOKUP to search down a column and returns data from the right.
 HLOOKUP to search across a row and returns data below.
 XLOOKUP search in any direction (left, right, up, or down)—no more limitations!
